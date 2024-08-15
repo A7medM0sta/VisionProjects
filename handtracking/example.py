@@ -1,6 +1,8 @@
 import mediapipe as mp
 import time
 import module as htm
+import cv2
+
 pTime = 0
 cTime = 0
 cap = cv2.VideoCapture(1)
