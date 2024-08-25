@@ -1,0 +1,2 @@
+# Project Description
+This project uses MediaPipe and OpenCV to perform hand tracking. It captures video from a camera, detects hands in the video frames, and tracks the positions of the hand landmarks.
