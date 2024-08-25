@@ -5,7 +5,7 @@ This project uses MediaPipe and OpenCV to perform hand tracking. It captures vid
  * Clone the repository:  
 ```bash
 git clone <repository-url>
-cd handtracking
+cd handtracking/src
 ```
  * Create a virtual environment:
 ```bash
